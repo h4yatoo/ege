@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b7fff96-3dbd-4eb8-881b-406a7a37f2e4" name="Changes" comment="homework">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/13866.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/16333.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/1873.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2403.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2404.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2407.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2410.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2417.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2425.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2429.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2431.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2432.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2433.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/2601.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/files/26549.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 1/breaks_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 1/linear_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 1/window_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 3/breaks_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 3/linear_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 3/replace_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 3/window_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 4/breaks_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 4/linear_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 4/replace_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 4/window_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 5/breaks_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 5/linear_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 5/replace_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 24/type - 5/window_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/13866.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/16333.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/1873.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2401.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2403.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2404.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2407.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2410.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2417.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2425.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2429.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2431.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2432.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2433.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2601.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2603.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2604.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2607.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/2613.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/26549.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/files/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/type - 1/o.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 26/type - 2/o.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task - 24/type - 1/replace_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/task - 24/type - 1/replace_type.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;h4yatoo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/h4yatoo/ege.git&quot;,
+    &quot;accountId&quot;: &quot;97f9a629-4b7f-48b3-aa01-d6e14a7e15fb&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3Ed5ECDponnR6lAcg8WThNBNb0G" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.breaks_type.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.linear_type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.o.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace_type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.window_type.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/balan/PycharmProjects/EGEpodgotovka/task - 26/files&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\balan\PycharmProjects\EGEpodgotovka\task - 26\files" />
+      <recent name="C:\Users\balan\PycharmProjects\EGEpodgotovka\task - 26" />
+      <recent name="C:\Users\balan\PycharmProjects\EGEpodgotovka\task - 24\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\balan\PycharmProjects\EGEpodgotovka\task - 24" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b7fff96-3dbd-4eb8-881b-406a7a37f2e4" name="Changes" comment="" />
+      <created>1780495491407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780495491407</updated>
+      <workItem from="1780495492412" duration="6758000" />
+      <workItem from="1780753100579" duration="20000" />
+      <workItem from="1780753384391" duration="8126000" />
+      <workItem from="1781357741355" duration="6400000" />
+      <workItem from="1781950095491" duration="1948000" />
+      <workItem from="1781963957346" duration="2835000" />
+      <workItem from="1782218483607" duration="28000" />
+      <workItem from="1782922849116" duration="2728000" />
+      <workItem from="1783180264556" duration="7000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <option name="closed" value="true" />
+      <created>1780502253666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780502253666</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework">
+      <option name="closed" value="true" />
+      <created>1780754316191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780754316191</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <MESSAGE value="homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EGEpodgotovka$replace_type.coverage" NAME="replace_type Coverage Results" MODIFIED="1781361734367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task - 24/type - 1" />
+    <SUITE FILE_PATH="coverage/EGEpodgotovka$window_type.coverage" NAME="window_type Coverage Results" MODIFIED="1782923850009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task - 24/type - 4" />
+    <SUITE FILE_PATH="coverage/EGEpodgotovka$linear_type.coverage" NAME="linear_type Coverage Results" MODIFIED="1781969441876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task - 24/type - 3" />
+    <SUITE FILE_PATH="coverage/EGEpodgotovka$breaks_type.coverage" NAME="breaks_type Coverage Results" MODIFIED="1781360480518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task - 24/type - 1" />
+    <SUITE FILE_PATH="coverage/EGEpodgotovka$main.coverage" NAME="main Coverage Results" MODIFIED="1780496955241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task - 24/type - 1" />
+  </component>
+</project>

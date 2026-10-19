@@ -1,4 +1,4 @@
-with open(r'./files/24_31160.txt')as f:
+with open(r'../files/24_31160.txt')as f:
     data=f.readline()
 numbers={'M':1000,'D':500,'C':100,'L':50,'X':10,'V':5,'I':1,
          'CM':900,'CD':400,'XC':90,'XL':40,'IX':9,'IV':4}

@@ -1,5 +1,5 @@
 from re import finditer
-with open(r'./files/24_31160.txt')as f:
+with open(r'../files/24_31160.txt')as f:
     data=f.readline()
 pattern=r'M{,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})'
 matches=[match.group() for match in finditer(pattern,data)]

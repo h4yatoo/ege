@@ -1,4 +1,4 @@
-with open(r'./files/24_17563.txt')as f:
+with open(r'../files/24_17563.txt')as f:
     data=f.readline()
 s=[]
 data=data.replace('-','*')

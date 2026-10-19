@@ -1,5 +1,5 @@
 from re import finditer,sub
-with open(r'files\24-371.txt')as file:
+with open(r'../files/24-371.txt')as file:
     data = file.readline()
 pattern = r'([A-Z]+ +)+[A-Z]+\.'
 matches=[match.group() for match in finditer(pattern,data)]

@@ -1,6 +1,7 @@
 from re import finditer
-with open(r'./files/24_23206.txt')as f:
+with open(r'../files/24_17563.txt')as f:
     data=f.readline()
-pattern=r'[02468]([^02468S]*S){35}[^02468S]*'
+number=r'[7-9][07-9]*'
+pattern=rf'({number}[-*])+{number}'
 matches=[match.group() for match in finditer(pattern,data)]
 print(len(max(matches,key=len)))

@@ -1,4 +1,4 @@
-# with open('../files/2404.txt.txt') as f:
+   # with open('../files/2404.txt.txt') as f:
 #     s=f
 
 # data='TTTTZYWTTT'

@@ -13,7 +13,7 @@
 # cheremsha@yahoo.com
 from re import finditer
 from timeit import timeit
-with open(r'./files/asdf.txt',encoding='utf-8')as f:
+with open(r'../files/asdf.txt', encoding='utf-8')as f:
     pattern=r'\S+@[a-z]+(\.ru|\.com)'
     matches = [match.group() for match in finditer(pattern, f.read())]
 print('\n'.join(matches))

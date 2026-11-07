@@ -18,4 +18,3 @@ for n in range(11,10000):
     if r >100:
         res.append(r)
 print(min(res))
-222 28 120 30 2842 8
